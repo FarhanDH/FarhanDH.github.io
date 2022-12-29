@@ -1,0 +1,19 @@
+.navbar {
+  position: relative;
+  text-align: center;
+  padding: 20px 50%;
+}
+
+.navbar ul li {
+  display: inline;
+  padding-right: 10px;
+}
+
+.navbar ul li:nth-child(1) {
+  float: left;
+  font-size: 25px;
+}
+
+.navbar ul li:nth-child(5) {
+  float: right;
+}
